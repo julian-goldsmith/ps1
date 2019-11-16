@@ -1,0 +1,3 @@
+The code in this repository draws to the screen on the PS1.  It was written by Julian Goldsmith starting in December 2014, and modified periodically through June 2016.
+
+The most recent changes started to bring in the GTE, the PS1's math coprocessor, but I didn't get to the point of being able to use it properly.
